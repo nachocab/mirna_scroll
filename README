@@ -1,0 +1,25 @@
+Contact me if you're interested in this project.
+
+########### State of Databases at July 18th 2011 ###############################
+#
+# Legend:
+# X => database exists for the given organism and is normalized
+# _ => database doesn't exist for the given organism
+# ? => database exists for the given organism but either it can't be normalized due to bad formatting or it has to be downloaded manually (mirwalk predictive)
+#
+#                                              |_hsa_|_mmu_|_rno_|_gga_|_dre_|_dme_|_cel_|
+# Experimental Tarbase_________________________|  X  |  X  |  _  |  _  |  _  |  _  |  _  |
+# Experimental MirTarBase______________________|  X  |  X  |  X  |  X  |  X  |  X  |  X  |
+# Experimental miRecords_______________________|  X  |  X  |  X  |  _  |  X  |  X  |  X  |
+# Experimental mirWalk_________________________|  X  |  X  |  X  |  _  |  _  |  _  |  _  |
+#                                              |_hsa_|_mmu_|_rno_|_gga_|_dre_|_dme_|_cel_|
+# Predictive microrna.org conserved high score_|  X  |  X  |  X  |  _  |  _  |  X  |  X  |
+# Predictive microcosm_________________________|  X  |  X  |  X  |  X  |  X  |  _  |  _  |
+# Predictive TargetScan conserved______________|  X  |  X  |  _  |  _  |  _  |  ?  |  ?  |
+# Predictive PITA______________________________|  X  |  X  |  _  |  _  |  _  |  X  |  X  | 
+# Predictive DIANA-microT______________________|  X  |  X  |  _  |  _  |  _  |  X  |  ?  |
+# Predictive EIMMo_____________________________|  X  |  X  |  X  |  _  |  X  |  X  |  X  |
+# Predictive MirTarget (miRDB)_________________|  X  |  X  |  X  |  X  |  _  |  _  |  _  |
+# Predictive Targetspy_________________________|  X  |  X  |  X  |  X  |  _  |  ?  |  _  |
+# Predictive mirWalk___________________________|  X  |  ?  |  ?  |  _  |  _  |  _  |  _  |
+################################################################################
